@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-    baseURL: 'https://examplealuraflix.onrender.com'
+    baseURL: 'https://my-json-server.typicode.com/jhonjamesdc/dbaluraflix'
 })
 
 //GET
